@@ -3,10 +3,6 @@
     transition: height 0.5s ease-in !important;
 }
 
-.hidden {
-    display: none !important;
-}
-
 .nav ul {
     display: flex;
     justify-content: flex-end;
