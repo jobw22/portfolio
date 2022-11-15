@@ -6438,6 +6438,7 @@ code {
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
+  color: rgb(19, 21, 26);
 }
 
 pre {
@@ -6458,11 +6459,12 @@ pre code {
 }
 
 body {
-  background-color: #e7efff;
+  background-color: #0a1d44;
+  margin: 1em;
 }
 
 * {
-  color: #000;
+  color: rgb(221, 234, 255);
   font-family: "Open Sans", sans-serif;
 }
 
@@ -6470,12 +6472,37 @@ p {
   font-size: large;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Poppins", sans-serif;
   color: rgb(141, 194, 255);
 }
 
 img {
-  max-width: 30%;
-  border-radius: 1em;
+  max-width: 17em;
+  border-radius: 0.5em;
+}
+
+.logga {
+  max-width: 10em;
+  border-radius: 100%;
+  border: 2px solid #b9d0ff;
+  padding: 0.5em;
+  margin: 1em;
+}
+
+.fab {
+  font-size: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footer {
+  margin-top: 3em;
 }

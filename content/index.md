@@ -10,7 +10,7 @@ Hejsan!
 
 Jag heter Jonathan Linnér och detta är min portfolio-hemsida.
 
-När man ska komma på något sätt att beskriva sig själv på brukar jag prata att jag
+När man ska komma på något sätt att beskriva sig själv på brukar jag prata om att jag
 
 gillar teknik, spel och annat liknande, men jag inser nu att då missar jag en stor del av
 

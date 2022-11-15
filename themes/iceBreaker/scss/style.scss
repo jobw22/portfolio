@@ -14,6 +14,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 body {
     background-color: $background-color;
+    margin: 1em;
 }
 
 * {
@@ -25,12 +26,37 @@ p {
     font-size: large;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Poppins', sans-serif;
     color: $font-headers;
 }
 
 img {
-    max-width: 30%;
-    border-radius: 1em;
+    max-width: 17em;
+    border-radius: 0.5em;
+}
+
+.logga {
+    max-width: 10em;
+    border-radius: 100%;
+    border: 2px solid $accent-color;
+    padding: 0.5em;
+    margin: 1em;
+}
+
+.fab {
+    font-size: 2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 3em;
 }

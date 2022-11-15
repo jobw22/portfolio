@@ -19,7 +19,16 @@
 }
 
 .nav a, .nav-toggle {
-    color: #333;
+    color: rgb(129, 203, 253);
+    text-decoration: none;
+    margin: 10%;
+    padding: 0.3em;
+}
+
+.nav a:hover {
+    background-color: rgb(129, 203, 253);
+    color: #0a1d44;
+    border-radius: 0.5em;
 }
 
 .nav-toggle {
