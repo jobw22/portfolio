@@ -1,0 +1,27 @@
+.main.technology {
+    display: grid;
+    gap: 1em 1em;
+}
+
+.h1tech {
+    justify-self: center;
+    grid-column: span 3;
+}
+
+.technav {
+    grid-column: span 1;
+}
+
+.indtech {
+    grid-column: span 2;
+}
+
+@media (max-width: 767px) {
+    .technav {
+        display: none;
+    }
+
+    .indtech {
+        grid-column: span 3;
+    }
+}

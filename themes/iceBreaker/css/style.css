@@ -6458,6 +6458,94 @@ pre code {
   line-height: 1.4;
 }
 
+/* report.scss */
+.landingpage {
+  display: grid;
+  gap: 1em 1em;
+}
+
+.landingpage h1 {
+  grid-column: span 3;
+}
+
+.kmom-box.project {
+  grid-column: span 3;
+}
+
+.tech-box {
+  background-color: rgb(71, 82, 205);
+  font-size: x-large;
+  padding: 1rem;
+  padding-bottom: 3rem;
+}
+
+.landingpage.tech h1 {
+  justify-self: center;
+}
+
+.tech-box:hover {
+  background-color: rgb(254, 127, 81);
+}
+
+.cssbox {
+  grid-column: span 1;
+}
+
+.htmlbox {
+  grid-column: span 2;
+}
+
+.jsbox {
+  grid-column: span 2;
+}
+
+.phpbox {
+  grid-column: span 1;
+}
+
+.pythonbox {
+  grid-column: span 3;
+}
+
+.gitbox {
+  grid-column: span 1;
+}
+
+.sqlbox {
+  grid-column: span 2;
+}
+
+@media (max-width: 767px) {
+  .gbox {
+    grid-column: span 3;
+  }
+}
+.main.technology {
+  display: grid;
+  gap: 1em 1em;
+}
+
+.h1tech {
+  justify-self: center;
+  grid-column: span 3;
+}
+
+.technav {
+  grid-column: span 1;
+}
+
+.indtech {
+  grid-column: span 2;
+}
+
+@media (max-width: 767px) {
+  .technav {
+    display: none;
+  }
+  .indtech {
+    grid-column: span 3;
+  }
+}
 body {
   background-color: #0a1d44;
   margin: 1em;
