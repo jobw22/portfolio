@@ -5,7 +5,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
+@import 'variables-dark';
 
 @import 'blockquotes';
 @import 'code';
@@ -50,9 +50,9 @@ img {
 
 .logga {
     max-width: 10em;
-    border-radius: 50%;
+    border-radius: 100%;
     border: 2px solid $accent-color;
-    padding: 0.2em;
+    padding: 0.5em;
     margin: 1em;
 }
 
@@ -70,14 +70,4 @@ a {
 
 .footer {
     margin-top: 3em;
-}
-
-.nav a {
-    color: $font-alternative-color;
-}
-
-.nav a:hover {
-    background-color: $font-alternative-color;
-    color: $background-color;
-    border-radius: 0.5em;
 }

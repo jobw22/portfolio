@@ -1,16 +1,5 @@
-.tech-box {
-    background-color: rgb(71, 82, 205);
-    font-size: x-large;
-    padding: 1rem;
-    padding-bottom: 3rem;
-}
-
 .landingpage.tech h1 {
     justify-self: center;
-}
-
-.tech-box:hover {
-    background-color: rgb(254, 127, 81);
 }
 
 .cssbox {
@@ -41,7 +30,7 @@
     grid-column: span 2;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 873px) {
     .gbox {
         grid-column: span 3;
     }

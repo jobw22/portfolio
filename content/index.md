@@ -1,36 +1,27 @@
 ---
-Title: Report
-Description: This is my report page.
-Template: report
+Title: Home
+Description: This is my home page.
 ---
 
-Report
+Home 
 ==========================
 
-<div class="kmom-box">
-Kmom01
-</div>
+Hejsan!
 
-<div class="kmom-box">
-Kmom02
-</div>
+Jag heter Jonathan Linnér och detta är min portfolio-hemsida.
 
-<div class="kmom-box">
-Kmom03
-</div>
+När man ska komma på något sätt att beskriva sig själv på brukar jag prata om att jag
 
-<div class="kmom-box">
-Kmom04
-</div>
+gillar teknik, spel och annat liknande, men jag inser nu att då missar jag en stor del av
 
-<div class="kmom-box">
-Kmom05
-</div>
+min personlighet. För något som jag är otroligt intresserad av är musik.
 
-<div class="kmom-box">
-Kmom06
-</div>
+Jag kan inte skapa musik själv, men större delen av dygnet så lyssnar jag på musik.
 
-<div class="kmom-box project">
-Kmom10
-</div>
+Ens musiksmak kan säga mycket om en person tycker jag så därför tycker jag det är väldigt
+
+trevligt att höra andras smak så jag får en liten uppfattning om hur de är!
+
+Jag gillar även fotografering och därför har jag valt att ha med lite bilder som jag tagit.
+
+![mossa](assets/img/snowMoss.jpg)

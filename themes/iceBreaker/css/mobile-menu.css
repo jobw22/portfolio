@@ -35,7 +35,7 @@
     display: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 873px) {
     .header {
         flex-direction: column;
     }

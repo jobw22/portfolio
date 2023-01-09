@@ -6540,14 +6540,14 @@ pre code {
   justify-content: space-around;
   padding: 1em 0;
   list-style: none;
-  border-top: 2px solid #1c2b47;
-  border-bottom: 2px solid #1c2b47;
+  border-top: 2px solid #4a618e;
+  border-bottom: 2px solid #4a618e;
   font-size: 1.5em;
 }
 
 .tech-box {
   color: white;
-  background-color: #1c2b47;
+  background-color: #4a618e;
   font-size: x-large;
   padding: 1rem;
   padding-bottom: 3rem;
@@ -6555,16 +6555,16 @@ pre code {
 
 .tech-box:hover {
   background-color: #b9d0ff;
-  color: #0b2862;
+  color: #0a1d44;
 }
 
 body {
-  background-color: rgb(129, 203, 253);
+  background-color: #0a1d44;
   margin: 1em;
 }
 
 * {
-  color: #0b2862;
+  color: rgb(221, 234, 255);
   font-family: "Open Sans", sans-serif;
 }
 
@@ -6579,7 +6579,7 @@ h4,
 h5,
 h6 {
   font-family: "Poppins", sans-serif;
-  color: #0a1d44;
+  color: rgb(141, 194, 255);
 }
 
 img {
@@ -6589,9 +6589,9 @@ img {
 
 .logga {
   max-width: 10em;
-  border-radius: 50%;
-  border: 2px solid #1c2b47;
-  padding: 0.2em;
+  border-radius: 100%;
+  border: 2px solid #4a618e;
+  padding: 0.5em;
   margin: 1em;
 }
 
@@ -6609,14 +6609,4 @@ a {
 
 .footer {
   margin-top: 3em;
-}
-
-.nav a {
-  color: #0a1d44;
-}
-
-.nav a:hover {
-  background-color: #0a1d44;
-  color: rgb(129, 203, 253);
-  border-radius: 0.5em;
 }
