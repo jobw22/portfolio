@@ -6472,8 +6472,17 @@ pre code {
   grid-column: span 3;
 }
 
+.spreadsheet {
+  width: 60%;
+  height: 15em;
+}
+
 .landingpage.tech h1 {
   justify-self: center;
+}
+
+.landingpage.tech a {
+  text-decoration: none;
 }
 
 .cssbox {
@@ -6523,6 +6532,10 @@ pre code {
   grid-column: span 1;
 }
 
+.technav a {
+  text-decoration: none;
+}
+
 .indtech {
   grid-column: span 2;
 }
@@ -6537,6 +6550,7 @@ pre code {
 }
 .nav ul {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   padding: 1em 0;
   list-style: none;
@@ -6558,6 +6572,45 @@ pre code {
   color: #0b2862;
 }
 
+.title a {
+  text-decoration: none;
+}
+
+.limit-size {
+  max-width: 30%;
+}
+
+.store-pic {
+  width: 40%;
+  height: 40%;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.landingpage.gallery h1 {
+  justify-self: center;
+}
+
+.landingpage.gallery a {
+  text-decoration: none;
+}
+
+.gallerybox {
+  grid-column: span 1;
+  background-color: #1c2b47;
+  padding: 2%;
+  width: 1/3%;
+  justify-self: center;
+}
+
+@media (max-width: 873px) {
+  .gallerybox {
+    grid-column: span 3;
+  }
+}
 body {
   background-color: rgb(129, 203, 253);
   margin: 1em;
@@ -6583,15 +6636,14 @@ h6 {
 }
 
 img {
-  max-width: 17em;
   border-radius: 0.5em;
 }
 
 .logga {
   max-width: 10em;
-  border-radius: 50%;
+  border-radius: 100%;
   border: 2px solid #1c2b47;
-  padding: 0.2em;
+  padding: 0.5em;
   margin: 1em;
 }
 
@@ -6604,7 +6656,7 @@ img {
 }
 
 a {
-  text-decoration: none;
+  color: darkblue;
 }
 
 .footer {

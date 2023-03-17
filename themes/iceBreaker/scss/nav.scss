@@ -1,5 +1,6 @@
 .nav ul {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     padding: 1em 0;
     list-style: none;
@@ -9,7 +10,7 @@
 }
 
 .tech-box {
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: $accent-color;
     font-size: x-large;
     padding: 1rem;
@@ -19,4 +20,8 @@
 .tech-box:hover {
     background-color: $background-alternative-color;
     color: $tech-font-hover;
+}
+
+.title a {
+    text-decoration: none;
 }

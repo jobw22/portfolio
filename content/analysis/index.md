@@ -12,7 +12,7 @@ Analysis
 </div>
 
 <div class="gbox htmlbox">
-<a class="tech-a" href="technology/html"><div class="tech-box">HTML</div></a>
+<a class="tech-a" href="analysis/02_load"><div class="tech-box">Performance</div></a>
 </div>
 
 <div class="gbox jsbox">

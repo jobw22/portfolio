@@ -42,7 +42,7 @@ Resultat
  
  [1177](https://www.1177.se/Jonkopings-lan/)
  
-![En bild på 1177:s hemsida](%assets_url%/img/1177.png "1177.se"){.plant}
+![En bild på 1177:s hemsida](../image/1177.png "1177.se"){.store-pic}
  
 **Färgschema:**
  
@@ -77,7 +77,7 @@ I sjukhus.
  
 [Elgiganten](https://www.elgiganten.se/)
  
-![En bild på Elgigantens hemsida](%assets_url%/img/elgiganten.png "Elgiganten.se"){.plant}
+![En bild på Elgigantens hemsida](../image/elgiganten.png "Elgiganten.se"){.store-pic}
  
 **Färgschema:**
  
@@ -103,7 +103,7 @@ Brödtext: Open-sans (sans-serif)
  
 **Helhetsuppfattning:**
  
-Färgvalen till Elgigantens hemsida skapar en kännsla av trygghet i
+Färgvalen till Elgigantens hemsida skapar en knnsla av trygghet i
  
 hemsidan samtidigt som typsnittet upplevs som inbjudande, dessa signaler
  
@@ -113,11 +113,11 @@ känns relevant för hemsidan.
  
 [Inaturalist](https://www.inaturalist.org/)
  
-![En bild på Inaturalists hemsida](%assets_url%/img/inaturalist.png "inaturalist.org"){.plant}
+![En bild på Inaturalists hemsida](../image/inaturalist.png "inaturalist.org"){.store-pic}
  
 **Färgschema:**
  
-En bladning av komplementärt och monokromt färgschema
+En blandning av komplementärt och monokromt färgschema
  
 Svart används som accentfärg
  

@@ -24,4 +24,4 @@ trevligt att höra andras smak så jag får en liten uppfattning om hur de är!
 
 Jag gillar även fotografering och därför har jag valt att ha med lite bilder som jag tagit.
 
-![mossa](assets/img/snowMoss.jpg)
+![mossa](image/snowMoss.jpg){.limit-size}
