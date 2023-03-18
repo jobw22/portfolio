@@ -14,7 +14,3 @@ Analysis
 <div class="gbox htmlbox">
 <a class="tech-a" href="analysis/02_load"><div class="tech-box">Performance</div></a>
 </div>
-
-<div class="gbox jsbox">
-<a class="tech-a" href="technology/javascript"><div class="tech-box">JAVASCRIPT</div></a>
-</div>
