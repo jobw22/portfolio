@@ -1,5 +1,5 @@
 ---
-Logo: assets/img/fall.jpg
+Logo: image/fall.jpg
 Tagline: My portfolio
 Social:
     - title: Link to the pages github repo.
