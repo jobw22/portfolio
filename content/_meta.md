@@ -1,5 +1,5 @@
 ---
-Logo: image/fall.jpg
+Logo: image/snowSquare.webp
 Tagline: My portfolio
 Social:
     - title: Link to the pages github repo.

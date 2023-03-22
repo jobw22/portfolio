@@ -25,3 +25,11 @@
 .title a {
     text-decoration: none;
 }
+
+.logga {
+    max-width: 10em;
+    border-radius: 50%;
+    border: 16px solid $accent-color;
+    padding: 0.5em;
+    margin: 1em;
+}

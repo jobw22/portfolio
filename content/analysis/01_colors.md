@@ -38,13 +38,14 @@ färgschema som webbplatsen består av.
 Resultat
 -----------
  
-**Webbplats 1:**
+Webbplats 1:
+------------
  
  [1177](https://www.1177.se/Jonkopings-lan/)
  
-![En bild på 1177:s hemsida](../image/1177.png "1177.se"){.store-pic}
+![En bild på 1177:s hemsida](../image/1177.webp?w=600&h=600 "1177.se"){.limit-size}
  
-**Färgschema:**
+Färgschema:
  
 Halvt komplementär
  
@@ -60,12 +61,12 @@ Blå används som accentfärg
 </tr>
 </table>
  
-**Typsnitt:**
+Typsnitt:
  
 H1-H3: Inter (sans-serif) rundare typsnitt
 Brödtext: Open sans (sans-serif)
  
-**Helhetsuppfattning:**
+Helhetsuppfattning:
  
 För en hemsida relaterat till vård är de olika nyanserna av röd väldigt
  
@@ -73,13 +74,14 @@ passande till hemsidan och skapar en familiär känsla likt det som finns
  
 I sjukhus.
  
-**Webbplats 2:**
+Webbplats 2:
+------------
  
 [Elgiganten](https://www.elgiganten.se/)
  
-![En bild på Elgigantens hemsida](../image/elgiganten.png "Elgiganten.se"){.store-pic}
+![En bild på Elgigantens hemsida](../image/elgiganten.webp?w=600&h=600 "Elgiganten.se"){.limit-size}
  
-**Färgschema:**
+Färgschema:
  
 Triadiskt
  
@@ -95,13 +97,13 @@ Ingen accentfärg
 </tr>
 </table>
  
-**Typsnitt:**
+Typsnitt:
  
 H1-H3: Ett eget typsnitt, ElkjopHeadline-Regular (sans-serif)
  
 Brödtext: Open-sans (sans-serif)
  
-**Helhetsuppfattning:**
+Helhetsuppfattning:
  
 Färgvalen till Elgigantens hemsida skapar en knnsla av trygghet i
  
@@ -109,13 +111,14 @@ hemsidan samtidigt som typsnittet upplevs som inbjudande, dessa signaler
  
 känns relevant för hemsidan.
  
-**Webbplats 3:**
+Webbplats 3:
+------------
  
 [Inaturalist](https://www.inaturalist.org/)
  
-![En bild på Inaturalists hemsida](../image/inaturalist.png "inaturalist.org"){.store-pic}
+![En bild på Inaturalists hemsida](../image/inaturalist.webp?w=600&h=600 "inaturalist.org"){.limit-size}
  
-**Färgschema:**
+Färgschema:
  
 En blandning av komplementärt och monokromt färgschema
  
@@ -132,13 +135,13 @@ Svart används som accentfärg
 </tr>
 </table>
  
-**Typsnitt:**
+Typsnitt:
  
 H1-H3: Trebutchet MS (sans-serif)
  
 Brödtext: Trebutchet MS (sans-serif)
  
-**Helhetsuppfattning:**
+Helhetsuppfattning:
  
 Färgschemat och typsnittet gör att Inaturalist.org upplevs som relevant
  

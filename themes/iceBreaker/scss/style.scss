@@ -20,6 +20,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'videos';
 
 @import 'footer';
+@import 'background';
 
 @import 'gallery';
 
@@ -51,14 +52,6 @@ h6 {
 
 img {
     border-radius: 0.5em;
-}
-
-.logga {
-    max-width: 10em;
-    border-radius: 100%;
-    border: 2px solid $accent-color;
-    padding: 0.5em;
-    margin: 1em;
 }
 
 .fab {

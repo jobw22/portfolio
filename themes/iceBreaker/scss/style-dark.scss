@@ -20,6 +20,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'videos';
 
 @import 'footer';
+@import 'background';
 
 @import 'gallery';
 
@@ -53,14 +54,6 @@ img {
     border-radius: 0.5em;
 }
 
-.logga {
-    max-width: 10em;
-    border-radius: 100%;
-    border: 2px solid $accent-color;
-    padding: 0.5em;
-    margin: 1em;
-}
-
 .fab {
     font-size: 2em;
 }
@@ -75,4 +68,8 @@ a {
 
 .footer {
     margin-top: 3em;
+}
+
+strong {
+    color: rgb(0, 0, 0);
 }

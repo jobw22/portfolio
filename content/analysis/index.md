@@ -14,3 +14,7 @@ Analysis
 <div class="gbox htmlbox">
 <a class="tech-a" href="analysis/02_load"><div class="tech-box">Performance</div></a>
 </div>
+
+<div class="gbox pythonbox">
+<a class="tech-a" href="analysis/03_designprincip"><div class="tech-box">Design Principles</div></a>
+</div>

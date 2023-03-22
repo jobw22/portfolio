@@ -45,12 +45,12 @@ Resultat
 ----------
 [Länk till Rådata](https://docs.google.com/spreadsheets/d/1ejk4hpvGB7ETBcVutnVvA9qFqtTVmnUu_IaXWid90uI/edit?usp=sharing)
 
-<iframe class="spreadsheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfHOI6PdfUQ9T_vgmcbpa3YfOb51n0TmbERGK5ochS54CLDTHOdoOosjsaH1hwK4l5dzfJaaLl2byA/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="Raw data for the analysis" class="spreadsheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfHOI6PdfUQ9T_vgmcbpa3YfOb51n0TmbERGK5ochS54CLDTHOdoOosjsaH1hwK4l5dzfJaaLl2byA/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Ikea
 ------
 
-![En bild på Ikeas hemsida](../image/IKEA.png "ikea.se"){.store-pic}
+![En bild på Ikeas hemsida](../image/IKEASmall.webp?w=600&h=600 "ikea.se"){.limit-size}
 
 <table style="border-spacing: 0.5em; border-collapse: separate">
     <thead>
@@ -83,12 +83,7 @@ Ikea
 Jysk
 ------
 
-<a class="store-pic" href="../image/JYSK.png" target="_blank">
-    <picture>
-        <source class="store-pic" media="(min-width: 668px)" srcset="../image/JYSK.png">
-        <img class="store-pic" src="../image/JYSK.png" alt="A sheep">
-    </picture>
-</a>
+![En bild på Mios hemsida](../image/JYSKSmall.webp?w=600&h=600 "jysk.se"){.limit-size}
 
 <table style="border-spacing: 0.5em; border-collapse: separate">
     <thead>
@@ -121,7 +116,7 @@ Jysk
 Mio
 ------
 
-![En bild på Mios hemsida](../image/MIO.png "mio.se"){.store-pic}
+![En bild på Mios hemsida](../image/MIOSmall.webp?w=600&h=600 "mio.se"){.limit-size}
 
 <table style="border-spacing: 0.5em; border-collapse: separate">
     <thead>

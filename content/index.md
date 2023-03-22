@@ -22,6 +22,6 @@ Ens musiksmak kan säga mycket om en person tycker jag så därför tycker jag d
 
 trevligt att höra andras smak så jag får en liten uppfattning om hur de är!
 
-Jag gillar även fotografering och därför har jag valt att ha med lite bilder som jag tagit.
+Jag gillar även fotografering och därför kommer några av mina bilder dyka upp lite överallt på hemsidan.
 
-![mossa](image/snowMoss.jpg){.limit-size}
+![mossa](image/snowMossSmall.webp){.limit-size}
